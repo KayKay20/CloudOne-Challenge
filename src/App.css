@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+h5{
+  margin-top: 50px;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+
+section{
+	background-image: url(img/background.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
